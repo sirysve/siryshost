@@ -47,9 +47,9 @@ $('#discount')
   .prop('number', 0)
   .animateNumber(
     {
-      number: 45
+      number: 20
     },
-    3000
+    2000
   );
 
 }, { offset: 800, triggerOnce: true });
