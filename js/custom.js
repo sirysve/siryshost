@@ -63,9 +63,9 @@ $('#lovedby')
   .prop('number', 0)
   .animateNumber(
     {
-      number: 41169
+      number: 3
     },
-    3500
+    1500
   );
 
 }, { offset: 800, triggerOnce: true });
