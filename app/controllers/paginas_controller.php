@@ -17,7 +17,7 @@
 		{
 			$messages_header = array(
 				'message-intro' => __('Despega Tú Negocio', true),
-				'js-rotating' => __('EXPANDE TU NEGOCIO, LLEGA A MAS CLIENTES, ACTIVACION INMEDIATA, EXCELENTES PLANES, LISTO PARA COMENZAR', true),
+				'js-rotating' => __('¿NECESITAS UNA PAGINA WEB?, ¿PERO NO SABES POR DONDE COMENZAR?, AQUI TE AYUDAMOS!, LISTO PARA COMENZAR', true),
 				'pricingboxes' => __('VER PLANES', true)
 			);
 
@@ -72,6 +72,7 @@
 			$messages_header = array(
 				'message-intro' => __('Registrar Dominio', true),
 				'h1' => __('SU DOMINIO .COM POR SOLO $ 11.99', true),
+				'h3' => __('Encuentre un dominio, cree su propio sitio web y utilice un email personalizado', true)
 			);
 
 			$background = 'alt-4';
