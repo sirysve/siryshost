@@ -20,7 +20,7 @@
 		?>
 	</head>
 
-	<?php if($background === 'login') : ?>
+	<?php if(isset($background) && $background === 'login') : ?>
 		<body class="login-page" data-whatinput="mouse">
 	<?php else : ?>
 		<body>
