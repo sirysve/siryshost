@@ -28,6 +28,7 @@
  */
 //	Router::connect('/', array('controller' => 'pages', 'action' => 'display', 'home'));
 	Router::connect('/', array('controller' => 'paginas', 'action' => 'index'));
+	Router::connect('/inicio', array('controller' => 'paginas', 'action' => 'index'));
 	Router::connect('/planes_hosting', array('controller' => 'paginas', 'action' => 'planes_hosting'));
 	Router::connect('/reseller_hosting', array('controller' => 'paginas', 'action' => 'reseller_hosting'));
 	Router::connect('/servers', array('controller' => 'paginas', 'action' => 'servers'));

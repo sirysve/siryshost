@@ -36,7 +36,7 @@
 				<div class="row">
 					<div class="small-12 large-3 medium-3 columns">
 						<div class="logo">
-							<a href="index.html" title=""><img src="img/logo.png" alt="" title=""/></a>
+							<a href="inicio" title=""><img src="img/logo.png" alt="" title=""/></a>
 						</div>
 					</div>
 
