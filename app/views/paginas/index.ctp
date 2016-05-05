@@ -10,10 +10,11 @@
 					<div class="row collapse">
 						<div class="small-12 large-10 medium-10 large-centered medium-centered columns">
 
-							<form method="post">
+							<form action="http://siryshost.com/whmcs/domainchecker.php" method="post">
 								<div class="row collapse">
 									<div class="small-12 large-8 medium-8 columns">
-										<input type="text" name="sld" onfocus="
+										<input type="hidden" name="direct" value="true" />
+										<input type="text" name="domain" onfocus="
 											if (this.value == 'Ingresa tu dominio') {
 												this.value = '';
 											}" onblur="if (this.value == '') {
@@ -22,7 +23,7 @@
 										accept=""value="Ingresa tu dominio"/>
 									</div>
 									<div class="small-12 large-2 medium-2 columns">
-										<select name="tld">
+										<select name="ext">
 											<option>.com</option>
 											<option>.net</option>
 											<option>.org</option>
