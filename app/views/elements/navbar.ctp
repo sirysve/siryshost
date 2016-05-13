@@ -11,8 +11,8 @@
 		</li>
 		<li><a href="domains"><?= __('DOMINIOS', true) ?></a></li>
 		<li><a href="#"><?= __('SERVICIOS', true) ?></a></li>
-		<li><a href="#"><?= __('F.A.Q.', true) ?></a></li>
+		<li><a href="faq"><?= __('F.A.Q.', true) ?></a></li>
 		<li><a href="contact"><?= __('CONTACTO', true) ?></a></li>
-		<li><a href="#"><?= __('INICIAR SESION', true) ?></a></li>
+		<li><a href="login"><?= __('INICIAR SESION', true) ?></a></li>
 	</ul>
 </nav>
