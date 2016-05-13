@@ -10,25 +10,9 @@
 			</ul>
 		</li>
 		<li><a href="domains"><?= __('DOMINIOS', true) ?></a></li>
-		<li><a href="#"><?= __('PAGES', true) ?></a>
-			<ul>
-				<li><a href="order_slider"><?= __('ORDER SLIDER', true) ?></a></li>
-				<li><a href="about_us"><?= __('ABOUT US', true) ?></a></li>
-				<li><a href="faq"><?= __('FAQ', true) ?></a></li>
-<!--				<li><a href="datacenter.html"><?= __('DATACENTERS', true) ?></a></li>-->
-				<li><a href="support"><?= __('SUPPORT', true) ?></a></li>
-				<li><a href="login"><?= __('LOGIN', true) ?></a></li>
-				<li><a href="testimonials"><?= __('TESTIMONIALS', true) ?></a></li>
-<!--				<li><a href="typography.html"><?= __('TYPOGRAPHY', true) ?></a></li>-->
-<!--				<li><a href="index-sticky-top.html"><?= __('STICKY HEADER', true) ?></a></li>-->
-			</ul>
-		</li>
-		<li><a href="#"><?= __('BLOG', true) ?></a>
-			<ul>
-				<li><a href="blog"><?= __('CATEGORY', true) ?></a></li>
-				<li><a href="blog_single"><?= __('SINGLE POST', true) ?></a></li>
-			</ul>
-		</li>
+		<li><a href="#"><?= __('SERVICIOS', true) ?></a></li>
+		<li><a href="#"><?= __('F.A.Q.', true) ?></a></li>
 		<li><a href="contact"><?= __('CONTACTO', true) ?></a></li>
+		<li><a href="#"><?= __('INICIAR SESION', true) ?></a></li>
 	</ul>
 </nav>

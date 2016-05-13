@@ -213,11 +213,11 @@
 									<?= __('SIRYSHOST', true) ?>
 								</div>
 								<div class="small-12 large-3 medium-3 columns">
-									<a href=""><i class="fa fa-comments"></i></a>
+									<a href="#"><i class="fa fa-comments"></i></a>
 									<?= __('CHAT ONLINE', true) ?>
 								</div>
 								<div class="small-12 large-3 medium-3 columns">
-									<a href=""><i class="fa fa-envelope-o"></i></a>
+									<a href="#"><i class="fa fa-envelope-o"></i></a>
 									<?= __('CONTACTANOS', true) ?>
 								</div>
 							</div>
@@ -232,33 +232,33 @@
 							<div class="small-12 large-3 medium-3 columns border-right">
 								<h2><?= __('Servicios de Hosting', true) ?></h2>
 								<ul>
-									<li><a href="shared.html"><?= __('Planes Hosting', true) ?></a></li>
-									<li><a href="vps.html"><?= __('Managed VPS', true) ?></a></li>
-									<li><a href="servers.html"><?= __('Dedicated Services', true) ?></a></li>
-									<li><a href=""><?= __('Únete al Plan Reseller', true) ?></a></li>
-									<li><a href=""><?= __('Ofertas especiales', true) ?></a></li>
+									<li><a href="#"><?= __('Planes Hosting', true) ?></a></li>
+									<li><a href="v#"><?= __('Managed VPS', true) ?></a></li>
+									<li><a href="#"><?= __('Dedicated Services', true) ?></a></li>
+									<li><a href="#"><?= __('Únete al Plan Reseller', true) ?></a></li>
+									<li><a href="#"><?= __('Ofertas especiales', true) ?></a></li>
 								</ul>
 							</div>
 
 							<div class="small-12 large-3 medium-3 columns border-right">
 								<h2><?= __('Empresa', true) ?></h2>
 								<ul>
-									<li><a href=""><?= __('Nosotros', true) ?></a></li>
-									<li><a href=""><?= __('Nuestro Blog', true) ?></a></li>
-									<li><a href=""><?= __('Terminos de Servicios', true) ?></a></li>
-									<li><a href=""><?= __('Políticas', true) ?></a></li>
-									<li><a href=""><?= __('Afiliados', true) ?></a></li>
+									<li><a href="#"><?= __('Nosotros', true) ?></a></li>
+									<li><a href="#"><?= __('Nuestro Blog', true) ?></a></li>
+									<li><a href="#"><?= __('Terminos de Servicios', true) ?></a></li>
+									<li><a href="#"><?= __('Políticas', true) ?></a></li>
+									<li><a href="#"><?= __('Afiliados', true) ?></a></li>
 								</ul>
 							</div>
 
 							<div class="small-12 large-3 medium-3 columns border-right">
 								<h2><?= __('Servicios', true) ?></h2>
 								<ul>
-									<li><a href=""><?= __('Certificados SSL', true) ?></a></li>
-									<li><a href=""><?= __('IPs Dedicadas', true) ?></a></li>
-									<li><a href=""><?= __('Desarrollo Web', true) ?></a></li>
-									<li><a href=""><?= __('Landing Page', true) ?></a></li>
-									<li><a href=""><?= __('Software', true) ?></a></li>
+									<li><a href="#"><?= __('Certificados SSL', true) ?></a></li>
+									<li><a href="#"><?= __('IPs Dedicadas', true) ?></a></li>
+									<li><a href="#"><?= __('Desarrollo Web', true) ?></a></li>
+									<li><a href="#"><?= __('Landing Page', true) ?></a></li>
+									<li><a href="#"><?= __('Software', true) ?></a></li>
 								</ul>
 							</div>
 
@@ -289,7 +289,7 @@
 							<ul class="small-block-grid-1 large-block-grid-5 medium-block-grid-5">
 								<li class="facebook"><a href="https://www.facebook.com/siryshost" target="_blank"><?= __('FACEBOOK', true) ?></a></li>
 								<li class="twitter"><a href="https://twitter.com/siryshost" target="_blank"><?= __('TWITTER', true) ?></a></li>
-								<li class="linkedin"><a href=""><?= __('LINKEDIN', true) ?></a></li>
+								<li class="linkedin"><a href="#"><?= __('LINKEDIN', true) ?></a></li>
 							</ul>
 						</div>
 					</div>
