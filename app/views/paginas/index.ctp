@@ -1,5 +1,6 @@
 <!--  FEATURES -->
 <section class="features">
+    <a id="search_domain"></a>
     <div class="row">
         <div class="small-12 columns">
             <h2><?= __('Registrar Dominio', true) ?></h2>

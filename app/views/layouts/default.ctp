@@ -71,8 +71,8 @@
 							<?php if (isset($messages_header['h3'])) : ?>
 								<h3><?= $messages_header['h3'] ?></h3>
 							<?php endif; ?>
-							<?php if (isset($messages_header['pricingboxes'])) : ?>
-								<a href="#pricingboxes" class="small radius button"><?= $messages_header['pricingboxes'] ?></a>
+							<?php if (isset($messages_header['search_domain'])) : ?>
+								<a href="#search_domain" class="small radius button"><?= $messages_header['search_domain'] ?></a>
 							<?php endif; ?>
 							<?php if ($this->action === 'domains'): ?>
 								<!-- DOMAIN NAME SEARCH BOX -->

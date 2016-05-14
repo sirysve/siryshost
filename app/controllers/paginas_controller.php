@@ -18,7 +18,7 @@
 			$messages_header = array(
 				'message-intro' => __('Despega Tú Negocio', true),
 				'js-rotating' => __('¿NECESITAS UNA PAGINA WEB?, ¿PERO NO SABES POR DONDE COMENZAR?, AQUI TE AYUDAMOS!, LISTO PARA COMENZAR', true),
-				'pricingboxes' => __('VER PLANES', true)
+				'search_domain' => __('BUSCAR DOMINIO', true)
 			);
 
 			$this->set('messages_header', $messages_header);
