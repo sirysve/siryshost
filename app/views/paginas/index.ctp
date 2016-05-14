@@ -116,44 +116,44 @@
     <div class="row">
         <div class="small-12 columns">
             <h2><?= __('RAZONES PARA ELEGIRNOS', true) ?></h2>
-            <p><?= __('Al seleccionar cualquiera de nuestros planes de hosting obtendrás los mejores beneficios y carcterísticas del mercado.', true) ?></p>
+            <p><?= __('Todos los planes incluyen.', true) ?></p>
 
             <ul class="small-block-grid-1 large-block-grid-3 medium-block-grid-3">
 
                 <li  data-wow-delay="0.2s" class="wow fadeInLeft">
                     <i class="fa fa-database"></i>
-                    <h3><?= __('Hosting', true) ?></h3>
-                    <p><?= __('Activación inmediata, Sin caídas, 99.99% Online', true) ?></p>
+                    <h3><?= __('Dominios', true) ?></h3>
+                    <p><?= __('Un administrador de dominios que facilita la vida. Es muy simple añadir, actualizar, administrar y transferir todos sus dominios desde un solo lugar.', true) ?></p>
                 </li>
 
                 <li data-wow-delay="0.4s" class="wow fadeInLeft">
                     <i class="fa fa-git-square"></i>
-                    <h3><?= __('Cpanel', true) ?></h3>
-                    <p><?= __('Fácil de usar, Estadísticas al instante.', true) ?></p>
+                    <h3><?= __('Migración Gratis', true) ?></h3>
+                    <p><?= __('Nosotros nos encargamos de todo el proceso de migración desde su servidor actual. Nuestro equipo trabajará duro para garantizar una transferencia sin preocupaciones ni tiempo fuera de línea.', true) ?></p>
                 </li>
 
                 <li data-wow-delay="0.6s" class="wow fadeInLeft">
                     <i class="fa fa-code"></i>
-                    <h3><?= __('Base de datos', true) ?></h3>
-                    <p><?= __('Bases de datos MySQL.', true) ?></p>
+                    <h3><?= __('Aplicaciones y Herramientas', true) ?></h3>
+                    <p><?= __('Desde Wordpress, Joomla! y Drupal a más de 300 aplicaciones gratuitas de código libre instaladas en un clic. No hay límites para lo que puede lograr.', true) ?></p>
                 </li>
 
                 <li data-wow-delay="0.2s" class="wow fadeInRight">
                     <i class="fa fa-bolt"></i>
-                    <h3><?= __('Ideal para Desarrolladores', true) ?></h3>
-                    <p><?= __('Lenguajes de programación ideales: CGI, Fast CGI, PHP 5, Ruby on Rails, Perl, Python, SSL.', true) ?></p>
+                    <h3><?= __('Panel de Control', true) ?></h3>
+                    <p><?= __('Es muy sencillo administrar sus sitios web, dominios, archivos y más, todo en un solo lugar con el exitoso panel de control cPanel.', true) ?></p>
                 </li>
 
                 <li data-wow-delay="0.4s" class="wow fadeInRight">
                     <i class="fa fa-hdd-o"></i>
-                    <h3><?= __('Aplicaciones Gratuitas', true) ?></h3>
-                    <p><?= __('Tienes más de 125 aplicaciones disponibles: CMS, e-Commerce, Blog, Surveys y muchos más.', true) ?></p>
+                    <h3><?= __('FTP & SFTP', true) ?></h3>
+                    <p><?= __('Tanto el acceso a FTP como a SFTP están disponibles en todos los planes de web hosting, con el fin de brindarle un acceso simple y seguro a su sitio web.', true) ?></p>
                 </li>
 
                 <li data-wow-delay="0.6s" class="wow fadeInRight">
                     <i class="fa fa-rocket"></i>
-                    <h3><?= __('Correo electrónico', true) ?></h3>
-                    <p><?= __('Contarás con cuentas de correo electrónico para darle una mejor imagen a tu negocio.', true) ?></p>
+                    <h3><?= __('Funciones Avanzadas', true) ?></h3>
+                    <p><?= __('Funciones avanzadas como acceso a archivos de registro en el servidor y herramientas web para la administración de archivos, bases de datos, correo electrónico y mucho más.', true) ?></p>
                 </li>
 
             </ul>
