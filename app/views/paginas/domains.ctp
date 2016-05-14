@@ -2,8 +2,9 @@
 <div class="domain-prices">
 	<div class="row">
 		<div class="small-12 columns">
-			<h2><?= __('BENEFICIOS DE REGISTRAR UN DOMINIO', true) ?></h2>
-			<p><?= __("Al registrar tu dominio obtendrás muchos beneficios entre los cuales destacamos: Ofrece Credibilidad y Confianza, Protección de su nombre y marca,   Email personalizados,   Comercio en línea  y Es muy económico!", true) ?></p>
+			<h2><?= __('Obtenga su identidad en la web:', true) ?></h2>
+			<h2><?= __('Todo comienza con un nombre de dominio.', true) ?></h2>
+			<p><?= __("El nombre de su dominio crea el punto de partida para su dirección propia en Internet. Escoja desde extensiones de dominio clásicas como .com y .net, o explore nuevas como .club y .guru. ¡Utilice su imaginación para elegir un nombre de dominio que represente su marca y le ayude a destacarse en la web!", true) ?></p>
 
 
 			<!--  PRCING BOXES COMPARISON  -->

@@ -71,7 +71,7 @@
 		{
 			$messages_header = array(
 				'message-intro' => __('Registrar Dominio', true),
-				'h1' => __('SU DOMINIO .COM POR SOLO $ 11.99', true),
+				'h1' => __('OBTENGA EL NOMBRE DE DOMINIO IDEAL', true),
 				'h3' => __('Encuentre un dominio, cree su propio sitio web y utilice un email personalizado', true)
 			);
 
