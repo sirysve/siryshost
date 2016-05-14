@@ -51,8 +51,8 @@
     <a id="pricingboxes"></a>
     <div class="row">
         <div class="small-12 columns">
-            <h2><?= __('ENCUENTRA EL PLAN IDEAL PARA TI', true) ?></h2>
-            <p><?= __('Al adquirir cualquiera de nuestros planes de hosting obtendras los siguientes beneficios: Cpanel Propio, catálogo de aplicaciones (Softaculous), Soporte Online y mucho más.', true) ?></p>
+            <h2><?= __('SELECCIONA TU PLAN DE HOSTING', true) ?></h2>
+            <p><?= __('Perfecto para negocios pequeños, organizaciones sin lucro y sitios web personales', true) ?></p>
         </div>
     </div>
 
