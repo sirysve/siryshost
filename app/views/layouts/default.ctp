@@ -217,7 +217,7 @@
 									<?= __('CHAT ONLINE', true) ?>
 								</div>
 								<div class="small-12 large-3 medium-3 columns">
-									<a href="#"><i class="fa fa-envelope-o"></i></a>
+									<a href="contact"><i class="fa fa-envelope-o"></i></a>
 									<?= __('CONTACTANOS', true) ?>
 								</div>
 							</div>
