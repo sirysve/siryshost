@@ -18,3 +18,9 @@ and open the template in the editor.
 ul .precio-total-submenu{
     width: 350px;
 }
+
+/* Reglas para la sección login */
+
+.margin-botton{
+    margin-bottom: 10px;
+}
