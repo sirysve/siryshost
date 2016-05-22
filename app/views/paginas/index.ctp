@@ -4,7 +4,7 @@
     <div class="row">
         <div class="small-12 columns">
             <h2><?= __('Registrar Dominio', true) ?></h2>
-            <p><?= __('SU DOMINIO .COM POR SOLO $ 11.99', true) ?></p>
+            <p><?= __('SU DOMINIO .COM POR SOLO $ 14.99', true) ?></p>
             <p><?= __('Encuentre un dominio, cree su propio sitio web y utilice un email personalizado', true) ?></p>
             <!-- DOMAIN NAME SEARCH BOX -->
             <div class="domainsearch">
