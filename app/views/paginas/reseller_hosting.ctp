@@ -2,8 +2,8 @@
 <div class="pricingboxes-comparison">
 	<div class="row">
 		<div class="small-12 columns">
-			<h2><?= __('SIN CONTRATO NI PAGOS MENSUALES', true) ?></h2>
-			<p><?= __('Al comprar cualquiera de nuestros planes de hosting obtendras los siguientes beneficios: Cpanel Propio, + de 300 de plantillas Web gratuitas, Soporte Online y mucho más.', true) ?></p>
+			<h2><?= __('COMPARE LOS PLANES RESELLER DE SIRYSHOST', true) ?></h2>
+			<p><?= __('Sin importar cuál cuenta de revendedor usted elige, podrá crear paquetes de hospedaje web valiosos para vender bajo su propia marca. Usted determina el precio, características y presentación, y usted se queda con todo el dinero que reúna. Como un revendedor Siryshost, usted puede estar tranquilo de que está ofreciendo a sus clientes todo esto y más – lo mejor de lo mejor en hospedaje web confiable.', true) ?></p>
 		</div>
 	</div>
 
@@ -25,7 +25,7 @@
 				<li class="bullet-item"><?= __('40 GB', true) ?></li>
 				<li class="bullet-item"><?= __('800 GB', true) ?></li>
 				<li class="bullet-item"><?= __('Ilimitadas', true) ?></li>
-				<li class="price"><span><?= __('$159,99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
+				<li class="price"><span><?= __('$199.99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
 				<li class="cta-button"><p><span><a href=""><?= __('COMPRAR', true) ?></a></span></p></li>
 			</ul>
 		</div>
@@ -36,7 +36,7 @@
 				<li class="bullet-item"><?= __('50 GB', true) ?></li>
 				<li class="bullet-item"><?= __('1000 GB', true) ?></li>
 				<li class="bullet-item"><?= __('Ilimitadas', true) ?></li>
-				<li class="price"><span><?= __('$189.99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
+				<li class="price"><span><?= __('$239.99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
 				<li class="cta-button"><p><span><a href=""><?= __('COMPRAR', true) ?></a></span></p></li>
 			</ul>
 		</div>
@@ -47,7 +47,7 @@
 				<li class="bullet-item"><?= __('100 GB', true) ?></li>
 				<li class="bullet-item"><?= __('2000 GB', true) ?></li>
 				<li class="bullet-item"><?= __('Ilimitadas', true) ?></li>
-				<li class="price"><span><?= __('$249.99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
+				<li class="price"><span><?= __('$319.99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
 				<li class="cta-button"><p><span><a href=""><?= __('COMPRAR', true) ?></a></span></p></li>
 			</ul>
 		</div>
@@ -58,7 +58,7 @@
 				<li class="bullet-item"><?= __('200 GB', true) ?></li>
 				<li class="bullet-item"><?= __('4000 GB', true) ?></li>
 				<li class="bullet-item"><?= __('Ilimitadas', true) ?></li>
-				<li class="price"><span><?= __('$369,99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
+				<li class="price"><span><?= __('$479,99', true) ?> <sub>/<?= __('Anual', true) ?></sub></span></li>
 				<li class="cta-button"><p><span><a href=""><?= __('COMPRAR', true) ?></a></span></p></li>
 			</ul>
 		</div>
@@ -74,8 +74,8 @@
 			<div class="circle"><i class="fa fa-globe"></i></div>
 		</div>
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('THREE LOCATIONS WORLDWIDE', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth.", true) ?> </p>
+			<h2><?= __('cPanel', true) ?></h2>
+			<p><?= __("El panel de control Nº1 en la industria, para usted y sus clientes.", true) ?> </p>
 		</div>
 	</div>
 </section>
@@ -83,8 +83,8 @@
 <section class="sharedfeatures-even wow fadeInUp">
 	<div class="row">
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('ONE-CLICK SOFTWARE INSTALLATIONS', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth.", true) ?> </p>
+			<h2><?= __('DOMINIOS ILIMITADOS', true) ?></h2>
+			<p><?= __("Hospede múltiples dominios con solo una cuenta de revendedor.", true) ?> </p>
 		</div>
 		<div class="small-12 large-4 medium-4 columns">
 			<div class="circle"><i class="fa fa-random"></i></div>
@@ -99,8 +99,8 @@
 			<div class="circle"><i class="fa fa-thumbs-o-up"></i></div>
 		</div>
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('24/7 SUPERB SUPPORT', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth.", true) ?> </p>
+			<h2><?= __('CUENTAS cPANEL ILIMITADAS', true) ?></h2>
+			<p><?= __("Sin límites en las cuentas cPanel = ¡sin limitaciones en las ventas!", true) ?> </p>
 		</div>
 	</div>
 </section>
@@ -108,8 +108,8 @@
 <section class="sharedfeatures-even wow fadeInUp">
 	<div class="row">
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('SSD Drives', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth.", true) ?> </p>
+			<h2><?= __('PANEL DE CONTROL WHM', true) ?></h2>
+			<p><?= __("Gestione las cuentas de los usuarios de forma fácil y eficiente.", true) ?> </p>
 		</div>
 		<div class="small-12 large-4 medium-4 columns">
 			<div class="circle"><i class="fa fa-hdd-o"></i></div>
