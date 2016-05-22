@@ -25,10 +25,10 @@
 				<div class="small-3 columns">
 					<div class="title-alt"><?= __('REGISTRO', true) ?></div>
 					<ul class="pricing-table domains">
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
 
 					</ul>
 				</div>
@@ -36,20 +36,20 @@
 				<div class="small-3 columns">
 					<div class="title-alt"><?= __('RENOVACION', true) ?></div>
 					<ul class="pricing-table domains">
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
 					</ul>
 				</div>
 
 				<div class="small-3 columns">
 					<div class="title-alt"><?= __('TRANSFERENCIA', true) ?></div>
 					<ul class="pricing-table domains">
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
-						<li class="bullet-item"><?= __('$11.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
+						<li class="bullet-item"><?= __('$14.99', true) ?></li>
 					</ul>
 
 				</div>
