@@ -92,8 +92,8 @@
 			<div class="circle"><i class="fa fa-globe"></i></div>
 		</div>
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('THREE LOCATIONS WORLDWIDE', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth. ", true) ?></p>
+			<h2><?= __('SOPORTE MULTILINGUE', true) ?></h2>
+			<p><?= __("Nuestro equipo PapaSquad incluye representantes de todo el mundo. Actualmente ofrecemos soporte en inglés y español.", true) ?></p>
 		</div>
 	</div>
 </section>
@@ -101,8 +101,8 @@
 <section class="sharedfeatures-even wow fadeInUp">
 	<div class="row">
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('ONE-CLICK SOFTWARE INSTALLATIONS', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth.", true) ?> </p>
+			<h2><?= __('CONSOLA AVANZADA', true) ?></h2>
+			<p><?= __("Acceda a nuestra base de conocimientos y abra tickets de soporte en cualquier momento a través de la práctica consola SirysHost.", true) ?> </p>
 		</div>
 		<div class="small-12 large-4 medium-4 columns">
 			<div class="circle"><i class="fa fa-random"></i></div>
@@ -118,9 +118,7 @@
 		</div>
 		<div class="small-12 large-8 medium-8 columns">
 			<h2><?= __('SIEMPRE DISPONIBLE', true) ?></h2>
-			<p><?= __("Con un soporte las 24 horas del día, PapaSquad siempre estará allí para ayudar. Ofrecemos soporte telefónico, por chat y correo electrónico en todos nuestros planes.
-
-", true) ?> </p>
+			<p><?= __("Con un soporte las 24 horas del día, PapaSquad siempre estará allí para ayudar. Ofrecemos soporte por chat y correo electrónico en todos nuestros planes.", true) ?> </p>
 		</div>
 	</div>
 </section>
@@ -128,8 +126,8 @@
 <section class="sharedfeatures-even wow fadeInUp">
 	<div class="row">
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('SSD Drives', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth.", true) ?> </p>
+			<h2><?= __('HERRAMIENTAS EDUCACIONALES', true) ?></h2>
+			<p><?= __("Ofrecemos una completa base de conocimientos con artículos y tutoriales de gran utilidad. Nuestros videos de enseñanza también le ayudarán a configurar su sitio web, correo electrónico y mucho más.", true) ?> </p>
 		</div>
 		<div class="small-12 large-4 medium-4 columns">
 			<div class="circle"><i class="fa fa-hdd-o"></i></div>
