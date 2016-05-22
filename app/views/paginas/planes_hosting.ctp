@@ -117,8 +117,10 @@
 			<div class="circle"><i class="fa fa-thumbs-o-up"></i></div>
 		</div>
 		<div class="small-12 large-8 medium-8 columns">
-			<h2><?= __('24/7 SUPERB SUPPORT', true) ?></h2>
-			<p><?= __("Pitchfork occupy forage, try-hard Blue Bottle artisan Carles PBR typewriter banjo meh four loko fap. Butcher pork belly 90's, scenester raw denim crucifix you probably haven't heard of them kitsch beard cardigan lo-fi synth small batch. Kogi meh tattooed, YOLO Intelligentsia crucifix hoodie. Scenester Shoreditch mumblecore Intelligentsia DIY, 3 wolf moon beard. Chillwave distillery chambray, Neutra paleo fashion axe fixie. Irony XOXO farm-to-table fap narwhal, trust fund selfies put a bird on it Schlitz keffiyeh polaroid photo booth.", true) ?> </p>
+			<h2><?= __('SIEMPRE DISPONIBLE', true) ?></h2>
+			<p><?= __("Con un soporte las 24 horas del día, PapaSquad siempre estará allí para ayudar. Ofrecemos soporte telefónico, por chat y correo electrónico en todos nuestros planes.
+
+", true) ?> </p>
 		</div>
 	</div>
 </section>
